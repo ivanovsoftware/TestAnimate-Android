@@ -3,6 +3,7 @@ package android.oleg.animation.mylibrary
 import android.view.View
 import android.view.animation.*
 
+// TEST
 class MyAnimate(mView: View) {
     var anim: Animation? = null
     var up: ScaleAnimation? = null
